@@ -1,0 +1,3 @@
+from apps.employees.models.employee import Employee
+
+__all__ = ['Employee']
